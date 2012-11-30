@@ -313,6 +313,8 @@
     <protected-broadcast android:name="com.google.android.systemui.smartspace.CLICK_EVENT"/>
     <protected-broadcast android:name="com.google.android.systemui.smartspace.ENABLE_UPDATE"/>
     <protected-broadcast android:name="com.google.android.systemui.smartspace.EXPIRE_EVENT"/>
+    <uses-permission android:name="android.permission.PREVENT_POWER_KEY" />
+
 
     <application
         android:name=".SystemUIApplication"
