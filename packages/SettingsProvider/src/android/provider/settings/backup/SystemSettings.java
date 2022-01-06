@@ -90,8 +90,9 @@ public class SystemSettings {
         Settings.System.KEYGAURD_MEDIA_ART,
         Settings.System.ENABLE_RIPPLE_EFFECT,
         Settings.System.LOCKSCREEN_SMALL_CLOCK,
-	Settings.System.SCREEN_OFF_FOD,
+	  Settings.System.SCREEN_OFF_FOD,
         Settings.System.BATTERY_LEVEL_COLORS,
         Settings.System.VOLUME_PANEL_ON_LEFT,
+        Settings.System.QS_SHOW_BATTERY_ESTIMATE,
     };
 }
